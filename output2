@@ -1,0 +1,11 @@
+Pleas enter the length you want to compare
+Pleas enter the first and second start points to compare
+Pleas enter your string, must be no more then 512 char long
+Your input is:
+length: 3
+first start point: 1
+second start point: 5
+the string: 
+qwerqwessss12
+
+The answer of the function is 0
